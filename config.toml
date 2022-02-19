@@ -1,7 +1,7 @@
-baseURL = 'https://bio.petanikode.com/'
+baseURL = 'https://bio.lmcly.fyi'
 languageCode = 'en-us'
-title = 'Petani Kode - Links in Bio'
+title = 'Lee Macaulay'
 
 [params]
-avatar = "/img/avatar.svg"
-username = "@petanikode"
+avatar = "/img/lm-2020-profile-240px.webp"
+username = "Lee Macaulay"
