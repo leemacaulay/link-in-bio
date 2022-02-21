@@ -33,6 +33,11 @@ body {
   margin-right: 0.625em;
 }
 
+.header .social ul li a {
+  color: white;
+}
+
+
 .header .social ul li:last-child {
   margin-right: 0;
 }
@@ -92,10 +97,10 @@ body {
 
 .icon {
   display: inline-block;
-  height: 1em;
-  width: 1em;
+  height: clamp(2.0rem, -0.875rem + 8.333vw, 3.0rem);
+  width: clamp(2.0rem, -0.875rem + 8.333vw, 3.0rem);
 
-  stroke: currentColor;
+  fill: currentColor;
 
   position: relative;
   top: 2px;
