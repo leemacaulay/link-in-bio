@@ -1,7 +1,7 @@
 ---
 title: "BBC Radio Cumbria update"
 date: 2022-02-19T18:21:39Z
-draft: false
+draft: true
 type: link
 
 thumbnail: "/img/thumbnail/radio-cumbria.webp"
