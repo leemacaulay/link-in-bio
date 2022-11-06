@@ -1,5 +1,5 @@
 ---
-title: "BBC News interactive bulletin"
+title: "BBC News on Alexa"
 date: 2022-02-19T18:21:45Z
 draft: false
 type: link
