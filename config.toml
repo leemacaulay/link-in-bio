@@ -5,15 +5,22 @@ title = 'Lee Macaulay'
 [params]
 avatar = "/img/avatar.webp"
 username = "Lee Macaulay"
-networks = ["twitter", "instagram" ,"github"]
+networks = ["twitter", "instagram" ,"github", "mastodon"]
 
 [params.social]
 twitter = "lmcly"
 github = "leemacaulay"
 instagram = "ljmcly"
-
+mastodon = "@lee"
 
 [params.social.base]
 twitter = "https://www.twitter.com/"
 github = "https://www.github.com/"
 instagram = "https://www.instagram.com/"
+mastodon = "https://fedi.lmcly.fyi/"
+
+[params.social.attr]
+twitter = "noopener me"
+github = "noopener"
+instagram = "noopener"
+mastodon = "noopener me"
