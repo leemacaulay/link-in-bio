@@ -1,5 +1,6 @@
 {{- $social := .Site.Params.social -}}
 {{- $base := .Site.Params.social.base -}}
+{{- $attr := .Site.Params.social.attr -}}
 
 <header class="header">
   <img src="{{ .Site.Params.avatar }}" alt="Avatar" class="avatar" />
@@ -9,7 +10,8 @@
     {{- range $network := .Site.Params.networks -}}
       {{ with $username := ( index $social $network )}}
       <li>
-        <a href="{{ print ( index $base $network ) $username }}" target='_blank' rel='noopener'> 
+        <a 
+        href="{{ print ( index $base $network ) $username }}" target='_blank' rel='{{ print ( index $attr $network )}}'> 
           <span>
             {{- partial "svg/icons" $network -}}
           </span>
