@@ -11,13 +11,13 @@ networks = ["twitter", "instagram" ,"github", "mastodon"]
 twitter = "lmcly"
 github = "leemacaulay"
 instagram = "ljmcly"
-mastodon = "@lee"
+mastodon = "@lmcly"
 
 [params.social.base]
 twitter = "https://www.twitter.com/"
 github = "https://www.github.com/"
 instagram = "https://www.instagram.com/"
-mastodon = "https://fedi.lmcly.fyi/"
+mastodon = "https://mastodon.social/"
 
 [params.social.attr]
 twitter = "noopener me"
