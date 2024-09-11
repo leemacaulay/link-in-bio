@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Link on Lee Macaulay</title>
+    <link>http://localhost:1313/link/</link>
+    <description>Recent content in Link on Lee Macaulay</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2024 15:37:32 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/link/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My homepage, portfolio &amp; blog</title>
+      <link>http://localhost:1313/link/homepage/</link>
+      <pubDate>Sat, 19 Feb 2022 20:21:32 +0000</pubDate>
+      <guid>http://localhost:1313/link/homepage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Local to Me on BBC Sounds</title>
+      <link>http://localhost:1313/link/local-rails/</link>
+      <pubDate>Tue, 10 Sep 2024 15:37:32 +0000</pubDate>
+      <guid>http://localhost:1313/link/local-rails/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Local to Me on BBC Sounds</title>
+      <link>http://localhost:1313/link/mini-series/</link>
+      <pubDate>Tue, 10 Sep 2024 15:37:32 +0000</pubDate>
+      <guid>http://localhost:1313/link/mini-series/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
