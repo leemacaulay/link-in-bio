@@ -11,8 +11,15 @@ body {
 
 .header .username {
   margin-top: 15.4044px;
-  margin-bottom: 15.4044px;
+  margin-bottom: 5.2022px;
   font-size: clamp(2.0rem, -0.875rem + 8.333vw, 3.0rem);
+}
+
+.description {
+  margin-top: 0;
+  margin-bottom: 15.4044px;
+  font-size: clamp(1.2rem, 0.3250rem + 1.6667vw, 1.5rem);
+  font-weight: 500;
 }
 
 .header .avatar {

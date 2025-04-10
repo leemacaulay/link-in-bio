@@ -5,6 +5,7 @@
 <header class="header">
   <img src="{{ .Site.Params.avatar }}" alt="Avatar" class="avatar" />
   <h1 class="username">{{ .Site.Params.username }}</h1>
+  <p class="description">{{ .Site.Params.description }}</p>
   <nav class="social">
     <ul>
     {{- range $network := .Site.Params.networks -}}

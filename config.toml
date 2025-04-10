@@ -5,6 +5,7 @@ title = 'Lee Macaulay'
 [params]
 avatar = "/img/avatar.webp"
 username = "Lee Macaulay"
+description = "Journalist and audio editorial manager"
 networks = ["twitter", "instagram" ,"github", "mastodon"]
 
 [params.social]
